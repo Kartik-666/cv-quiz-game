@@ -17,10 +17,10 @@ Here are some screenshots of the CV Quiz Game:
    ![Start Quiz Button](Screenshot%20(135).png)
 
 2. **Question and Options**
-   ![Question Screen](screenshots/Screenshot%20(136).png)
+   ![Question Screen](Screenshot%20(136).png)
 
 3. **Final Score**
-   ![Final Score](screenshots/Screenshot%20(137).png)
+   ![Final Score](Screenshot%20(137).png)
 
 ## Requirements
 
