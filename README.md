@@ -14,7 +14,7 @@ A Computer Vision-based Quiz Game where users can answer questions related to co
 Here are some screenshots of the CV Quiz Game:
 
 1. **Start Quiz Button**
-   ![Start Quiz Button](screenshots/Screenshot%20(135).png)
+   ![Start Quiz Button](Screenshot%20(135).png)
 
 2. **Question and Options**
    ![Question Screen](screenshots/Screenshot%20(136).png)
